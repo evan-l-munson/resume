@@ -1,5 +1,5 @@
 ---
-title: Nick Uhorchak's Resume"
+title: Evan Munson's Resume"
 author: Nick Uhorchak
 date: "`r Sys.Date()`"
 output:
@@ -54,11 +54,11 @@ Contact {#contact}
 
 
 
-- <i class="fa fa-envelope"></i> nuhorchak@gmail.com
+- <i class="fa fa-envelope"></i> evan.l.munson@gmail.com
 - <i class="fa fa-twitter"></i> nuhorchak
-- <i class="fa fa-github"></i> github.com/nuhorchak
+- <i class="fa fa-github"></i> github.com/evan-l-munson
 - <i class="fa fa-linkedin"></i> linkedin.com/in/nicholas-uhorchak/
-- <i class="fa fa-phone"></i> (254) 317-9339
+- <i class="fa fa-phone"></i> (602) 510-3047
 
 
 
